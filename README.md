@@ -12,3 +12,15 @@ Caesar's cipher is an encryption technique that uses shift system for encryption
 
 :four: The code prompts you again to type 'yes' if you want to enter a new message or 'no' to exit
 
+## Screenshots :camera: of codes and results
+![Screenshot of first code](./Screenshots/Caesar_Cipher_Encryption_Code1.png)
+
+&nbsp;
+
+![Screenshot of second code](./Screenshots/Caesar_Cipher_Encryption_Code2.png)
+
+&nbsp;
+
+![Screenshot of result](./Screenshots/Caesar_Cipher_Encryption_Result.png)
+
+
